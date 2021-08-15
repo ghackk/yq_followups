@@ -14,3 +14,4 @@
 - Selenium
 - Jupyter notebook or VsCode
 - Patience
+  
