@@ -4,7 +4,7 @@
 - No follow back before 37 days
 - Storing data of last followup in spreadsheet (csv file) (name - followup)
   
-  ![Profile_link](main/yq_profile.jpg)
+  ![Screenshot](yq_profile.jpg)
   - https://www.yourquote.in/rudraksha-mayank-jaze/quotes
 
 
